@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50dc6162eb2f6dd4dac7be0024d4908b, type: 3}
+  m_Name: Bed2
+  m_EditorClassIdentifier: 
+  itemId: bed2
+  category: 4
+  displayName: Single Bed 1
+  thumbnail: {fileID: 21300000, guid: fff568571a0c6ac41af5e23b8c24337f, type: 3}
+  prefab: {fileID: 2623045076188130739, guid: 6222a48b89733194c8c59b9c8ebe8bcb, type: 3}
+  placementSurface: 0
+  spawnScale: {x: 0.7, y: 0.7, z: 0.7}
+  spawnRotationEuler: {x: 0, y: 0, z: 0}
+  minUniformScale: 0.35
+  maxUniformScale: 1.4

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50dc6162eb2f6dd4dac7be0024d4908b, type: 3}
+  m_Name: Wooden Stool
+  m_EditorClassIdentifier: 
+  itemId: wooden_stool
+  displayName: Wooden Stool
+  thumbnail: {fileID: 21300000, guid: b39db1b7e6454f64dbe26fe9f1300449, type: 3}
+  prefab: {fileID: 2651951829409826395, guid: e0e4e392e6ddeb84e818d8b2145097c5, type: 3}
+  placementSurface: 0
+  spawnScale: {x: 0.7, y: 0.7, z: 0.7}
+  spawnRotationEuler: {x: 0, y: 0, z: 0}
+  minUniformScale: 0.35
+  maxUniformScale: 1.4

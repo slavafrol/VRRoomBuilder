@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50dc6162eb2f6dd4dac7be0024d4908b, type: 3}
+  m_Name: Table5
+  m_EditorClassIdentifier: 
+  itemId: table5
+  category: 1
+  displayName: Table 5
+  thumbnail: {fileID: 21300000, guid: dab6a541511ff6946b8500c1b3a4998e, type: 3}
+  prefab: {fileID: 4152174327115420068, guid: afa45ec4b00abf240b7dc2637eaada4e, type: 3}
+  placementSurface: 0
+  spawnScale: {x: 1, y: 1, z: 1}
+  spawnRotationEuler: {x: 0, y: 0, z: 0}
+  minUniformScale: 0.5
+  maxUniformScale: 2

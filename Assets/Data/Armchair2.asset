@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50dc6162eb2f6dd4dac7be0024d4908b, type: 3}
+  m_Name: Armchair2
+  m_EditorClassIdentifier: 
+  itemId: armchair2
+  displayName: Armchair 2
+  thumbnail: {fileID: 21300000, guid: e229de1f02d08ac4eb5129de22230e3b, type: 3}
+  prefab: {fileID: 8381158293209832969, guid: d6a4ce3f8be17d1418ca47ebc9f852fe, type: 3}
+  placementSurface: 0
+  spawnScale: {x: 1, y: 1, z: 1}
+  spawnRotationEuler: {x: 0, y: 0, z: 0}
+  minUniformScale: 0.5
+  maxUniformScale: 2
